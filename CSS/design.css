@@ -1,0 +1,76 @@
+html, body, header, .jarallax {
+  height: 95vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+html, body, header, .intro-2 {
+  height: 550px;
+}
+
+nav ul {
+    list-style: none;
+	opacity: .8;
+	margin: 0;
+}
+
+nav li {
+    font-size: 1.2em;
+    line-height: 20px;
+    height: 40px;
+	display: inline-block;
+}
+
+.blk{
+	background-color: #1d1d1e;
+}
+
+nav a {
+    text-decoration: none;
+	color: white;
+}
+
+body{min-height:200vh;}
+.navbar-default{
+  transition:500ms ease;
+  background:transparent;
+  height: 60px;
+}
+
+.navbar-default.scrolled{
+  background:#000;
+  height: 60px;
+  color: white;
+}
+
+.about span , .court span {
+   color: #FFF; 
+   font-weight: 800; 
+   padding:20px 0px;
+   display: block;
+   text-transform: uppercase;
+   font-size: 16px;
+   letter-spacing: 3px;
+}
+
+.about li , .court li {
+    padding:5px 0px;
+    list-style: none;
+}
+
+.about li p , .court li a {
+    color:#FFF;
+    letter-spacing: 2px;
+    text-decoration:none;
+    font-size:14px;
+}
+
+.zoom{
+  transition: transform .2s;
+}
+.zoom:hover{
+    transform: scale(1.5);
+}
+	

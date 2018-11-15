@@ -1,0 +1,7 @@
+ <div class="row">
+            <div class="col-md-3">
+                <h5 class="text-uppercase mb-4 mt-3 font-weight-bold"><strong>MAP</strong></h5>
+                <div id="ae_map" style="height: 300px; width: 320px;"></div>
+            </div>
+        </div>
+            <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhBuIWDfjqk26jnvuR95_-ZHXhFV7dcdA&libraries=places&callback=initMap"></script>
