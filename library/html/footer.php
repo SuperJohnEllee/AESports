@@ -49,5 +49,5 @@
  </footer>
  
     <div style="background-color: #000;padding: 15px 0;" class=" text-center text-white">
-        <h6 class="col-lg-12">Develop by AE Solutions &copy 2018. All Rights Reserved</h6>
+        <h6 class="col-lg-12">Develop by Ariane Egida &copy 2018. All Rights Reserved</h6>
     </div>
